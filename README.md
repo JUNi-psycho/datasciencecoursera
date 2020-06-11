@@ -1,2 +1,2 @@
 # datasciencecoursera
-repository for data scientist toolkit
+Repository for data scientist toolkit
